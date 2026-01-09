@@ -29,5 +29,9 @@ OpenAI API
 Gradio
 
 Google Colab
+## 📸 Demo
+
+![ScholarBot UI](screenshot.png.png)
+
 
 PyPDF
