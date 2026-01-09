@@ -32,6 +32,24 @@ Google Colab
 ## 📸 Demo
 
 ![ScholarBot UI](screenshot.png.png)
+## 🎯 Project Objective
+To build an AI-powered assistant that helps students and developers with research understanding, code fixing, and PDF-based learning through a chat-based interface using modern AI models.
+
+## ▶️ How to Use
+1. Open the notebook in Google Colab.
+2. Install dependencies using the requirements.txt file.
+3. Set your OpenAI API key as an environment variable.
+4. Run all notebook cells.
+5. Open the generated Gradio public link to access ScholarBot AI.
+
+## ✨ Key Features
+- Chat-based AI interface  
+- Research assistant mode  
+- Code fixing with explanation  
+- PDF research support  
+- Multi-agent reasoning  
+- Dark themed professional UI  
+- Chat history saving  
 
 
 PyPDF
